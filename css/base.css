@@ -1,6 +1,35 @@
 body {
-  font-family: "poppins", sans-serif 
-  max-width 1440px;
+  font-family: "poppins", sans-serif;
   font-weight: 400;
   padding: 15 px;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: #444444;
+}
+.header {
+  background-color: #FFFFFF;
+  padding: 15px 136px;
+  display: flex;
+  justify-content: space-between;
+}
+.logo-header {
+  width: 102px;
+}
+.nav {
+ margin: 10px 0; 
+}
+
+.menu {
+display: flex;
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 16px;
+color: #444444;
+}
+.menu-item {
+  margin: 0 15px;
 }
