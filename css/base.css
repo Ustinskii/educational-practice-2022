@@ -19,7 +19,7 @@ H1 {
   text-align: center;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #FF8A63;
+  color: #ff8a63;
   margin-bottom: 0;
 }
 
@@ -29,7 +29,7 @@ H2 {
   font-size: 36px;
   line-height: 43px;
   text-align: center;
-  color: #45525B;
+  color: #45525b;
   margin-bottom: 11px;
 }
 
@@ -39,7 +39,7 @@ H3 {
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  color: #6F7278;
+  color: #6f7278;
   margin-bottom: 30px;
 }
 
@@ -102,7 +102,7 @@ H3 {
   line-height: 20px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #FF8A63;
+  color: #ff8a63;
 }
 
 .goal-text {
@@ -110,7 +110,7 @@ H3 {
   font-weight: 400;
   font-size: 48px;
   line-height: 53px;
-  color: #45525B;
+  color: #45525b;
 }
 
 .we-text {
@@ -137,7 +137,7 @@ H3 {
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
-  color: #45525B;
+  color: #45525b;
 }
 
 .we-broker {
@@ -147,7 +147,7 @@ H3 {
   line-height: 17px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #6F7278;
+  color: #6f7278;
 }
 
 .block1 {
@@ -183,8 +183,7 @@ H3 {
   line-height: 20px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #45525B;
-
+  color: #45525b;
 }
 
 .block1-text {
@@ -192,10 +191,28 @@ H3 {
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
-  color: #6F7278;
+  color: #6f7278;
 }
 
 .block2 {
   margin-left: 136px;
   margin-right: 136px;
+}
+.h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #6f7278;
+}
+.menu {
+  display: flex;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 16px;
+  color: #444444;
 }
